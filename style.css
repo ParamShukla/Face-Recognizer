@@ -1,0 +1,14 @@
+body {
+   color:rgb(66, 155, 243) ; 
+   background-color:rgb(241, 220, 102) ;
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+
+}
+
+.nobot , #Accuracy , #Object  {
+    color:rgb(23, 3, 3);
+}
